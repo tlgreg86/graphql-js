@@ -7,7 +7,7 @@ This repository contains the final project for the [**GraphQL.js tutorial**](htt
 ### 1. Clone repository
 
 ```sh
-git clone https://github.com/howtographql/graphql-js
+git clone https://github.com/tlgreg86/graphql-js
 cd graphql-js
 ```
 
